@@ -91,3 +91,12 @@ body{
         width: 270px;
     }
 }
+.heading{
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+    text-shadow: 4px 3px 16px rgb(94, 6, 92);
+    margin-bottom: 20px;
+    text-transform: capitalize;
+
+}
