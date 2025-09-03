@@ -82,3 +82,12 @@ body{
     padding-top: 10px;
     margin-bottom: 10px;
 }
+@media (max-width:453px) {
+
+    .container{
+        width: 330px;
+    }
+    input,select{
+        width: 270px;
+    }
+}
